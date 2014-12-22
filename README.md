@@ -36,11 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Wonderfull newes of the death of Paule the. iii. last byshop of Rome [and] of diuerse thynges that a
+
+1. ¶ W. B. to the louyng Reader.
+
 #####Body#####
-Wonderfull newes of the death of Paule the. iii. last byshop of Rome [and] of diuerse thynges that a
+
+1. ¶ To his derely beloued brother Marke Forius, wel learned in both lawes, Publius Esquillus, master of Prelates, wisheth ioye and peace.
+
 #####Back#####
-Wonderfull newes of the death of Paule the. iii. last byshop of Rome [and] of diuerse thynges that a
+¶ Imprinted by Thomas Gaultier dwelling at Fliete Bridge in the newe Rentes.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
